@@ -67,3 +67,13 @@
 During the research process, Mark Webster was initially selected as one of the experts. However, after evaluating publicly available sources, it was determined that there were limited verifiable LinkedIn posts and AI-focused SEO resources directly relevant to the project topic.
 To improve source quality and maintain consistency across all experts, Mark Webster was replaced with Nathan Gotch.
 Nathan Gotch was selected because of his extensive publicly available content on AI-assisted SEO workflows, AI content production, topical authority, and modern SEO strategy, making him a stronger fit for the research objective.
+
+## Koray GÜBÜR Findings
+
+1. SEO is shifting from keyword-based optimization to entity-based understanding.
+2. AI search systems rely heavily on semantic relationships between content pieces.
+3. Topical authority is built through structured content ecosystems.
+4. Content should be designed as interconnected knowledge systems.
+5. AI models interpret meaning, not just text patterns.
+6. Search visibility depends on semantic clarity and structure.
+7. Modern SEO requires system-level thinking rather than isolated content creation.

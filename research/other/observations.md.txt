@@ -5,3 +5,21 @@
 3. Brands need visibility inside AI systems.
 4. Search data should guide AI-assisted content production.
 5. High-quality content remains more important than content volume.
+
+## Lily Ray Findings
+
+1. Large-scale AI content can create long-term SEO risks.
+2. Human expertise remains important.
+3. Strong brands perform better in AI search.
+4. GEO should not replace traditional SEO.
+5. Trust, authority, and content quality remain key ranking factors.
+
+## Aleyda Solis Findings
+
+1. AI search optimization should complement traditional SEO.
+2. Businesses need visibility in AI-generated answers.
+3. Clear entities and structured content improve AI visibility.
+4. AI search measurement is becoming increasingly important.
+5. Topical authority remains critical.
+6. Strong SEO fundamentals still drive success.
+7. Content should be easily understood and cited by AI systems.

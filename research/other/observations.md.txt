@@ -23,3 +23,13 @@
 5. Topical authority remains critical.
 6. Strong SEO fundamentals still drive success.
 7. Content should be easily understood and cited by AI systems.
+
+## Matt Diggity Findings
+
+1. AI should be used for drafting and workflow acceleration rather than direct publishing.
+2. Human editors remain essential for expertise, quality control, and differentiation.
+3. Topical mapping and content clusters improve content performance.
+4. Entity optimization is increasingly important for AI search visibility.
+5. AI search platforms rely on trusted brands and authoritative sources.
+6. Content structure and conversational writing improve AI citation potential.
+7. SEO and AI optimization are becoming increasingly interconnected.

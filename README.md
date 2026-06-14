@@ -28,3 +28,14 @@ This repository documents the setup process for Cursor IDE and AI coding tools.
 - Using Cursor IDE
 - Installing AI extensions
 - Repository management
+
+CURSOR-GITHUB1
+│
+├── README.md   ← Main README
+│
+└── research/
+    ├── linkedin-posts/
+    ├── youtube-transcripts/
+    ├── other/
+    ├── sources.md
+    └── final-insights-report.md

@@ -53,3 +53,17 @@
 5. AI can significantly accelerate research and content operations.
 6. Direct audience relationships are increasingly important as search evolves.
 7. AI works best as a productivity multiplier rather than a replacement for expertise.
+
+## Nathan Gotch Findings
+
+1. AI improves content production efficiency but does not replace expertise.
+2. Human oversight remains essential for quality and strategic direction.
+3. Topical authority continues to be a major ranking factor.
+4. AI can accelerate research, outlining, and drafting processes.
+5. Content quality remains more important than content volume.
+6. Strong SEO systems enhance the effectiveness of AI-assisted workflows.
+7. Successful AI-powered content strategies combine automation with human expertise.
+## Research Scope Adjustment
+During the research process, Mark Webster was initially selected as one of the experts. However, after evaluating publicly available sources, it was determined that there were limited verifiable LinkedIn posts and AI-focused SEO resources directly relevant to the project topic.
+To improve source quality and maintain consistency across all experts, Mark Webster was replaced with Nathan Gotch.
+Nathan Gotch was selected because of his extensive publicly available content on AI-assisted SEO workflows, AI content production, topical authority, and modern SEO strategy, making him a stronger fit for the research objective.

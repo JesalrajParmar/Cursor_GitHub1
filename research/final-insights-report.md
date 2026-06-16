@@ -9,14 +9,13 @@ To understand how leading SEO professionals use AI to create, optimize, and scal
 1. Neil Patel
 2. Lily Ray
 3. Aleyda Solis
-4. Ryan Law
-5. Matt Diggity
-6. Ross Simmonds
-7. Gael Breton
-8. Nathan Gotch
-9. Koray Tuğberk GÜBÜR
-10. Kevin Indig
-11. Bernard Huang
+4. Matt Diggity
+5. Ross Simmonds
+6. Gael Breton
+7. Nathan Gotch
+8. Koray Tuğberk GÜBÜR
+9. Kevin Indig
+10. Bernard Huang
 
 ## Key Findings
 

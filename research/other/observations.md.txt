@@ -101,3 +101,29 @@ Nathan Gotch was selected because of his extensive publicly available content on
 7. Brands must optimize for both search engines and answer engines.
 8. Bernard's work provides practical frameworks for improving AI visibility.
 9. His research demonstrates how content can be optimized for citation and discovery by AI systems.
+
+# Emerging Patterns Across Experts
+
+## AI's Role
+
+1. All experts view AI as a productivity tool rather than a replacement for human expertise.
+2. AI is most commonly used for research, outlining, drafting, and workflow automation.
+3. Human editing remains critical for maintaining quality, originality, and authority.
+
+## SEO Trends
+
+4. Topical authority remains one of the most important ranking factors.
+5. Search visibility is expanding beyond Google into AI-powered search platforms.
+6. Content quality consistently outweighs content volume.
+
+## AI Search
+
+7. AI systems rely heavily on trust, authority, and citations.
+8. Strong brands are more likely to appear in AI-generated answers.
+9. GEO and AI Search Optimization complement traditional SEO rather than replacing it.
+
+## Content Strategy
+
+10. Original insights and expertise are becoming more valuable as AI-generated content becomes widespread.
+11. Content distribution and brand presence influence AI visibility.
+12. Structured content and semantic relationships improve discoverability in AI-powered search systems.
